@@ -6,3 +6,6 @@ which will gives u an alert if the file got modified or deleted and so on !
 # Usage ( Only Linux ) 
 Simply in your terminal type  ( python FileAnalyzer.py )
 
+
+
+![fileanalyze](https://user-images.githubusercontent.com/36604096/36433549-9ce87fd0-1611-11e8-8b01-f85bd2745c50.png)
